@@ -1,4 +1,4 @@
-  Privacy Policy body { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; padding: 1em; } **Privacy Policy**
+**Privacy Policy**
 
 Lattos built the Eleições Municipais app as a Free app. This SERVICE is provided by Lattos at no cost and is intended for use as is.
 
