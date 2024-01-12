@@ -1,3 +1,6 @@
+**Request full account removal**
+Currently, you can do this within the app, by going to "Profile", but if you prefer, [click here](mailto:lattoshenrique@gmail.com?subject=Account%20Removal).
+  
 **Privacy Policy**
 
 Lattos built the Eleições Municipais app as a Free app. This SERVICE is provided by Lattos at no cost and is intended for use as is.
