@@ -1,4 +1,5 @@
 **Request full account removal**
+
 Currently, you can do this within the app, by going to "Profile", but if you prefer, [click here](mailto:lattoshenrique@gmail.com?subject=Account%20Removal).
   
 **Privacy Policy**
